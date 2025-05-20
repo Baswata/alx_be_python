@@ -1,6 +1,6 @@
 principal = 1000
 rate = 0.05
-time = 5
+time = 3
 
 #calculating interest
 
